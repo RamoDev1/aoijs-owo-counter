@@ -1,0 +1,26 @@
+{
+  "name": "aoijs-owo-counter",
+  "version": "1.0.0",
+  "description": "This İs Discord OwO Counter For OwO Bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/Ramodev88/aoijs-owo-counter"
+  },
+  "license": "MIT",
+  "keywords": [
+    "owo",
+    "discord",
+    "express",
+    "counter"
+  ],
+  "dependencies": {
+    "aoi.db": "^1.1.0",
+    "aoi.js": "^6.4.0"
+  }
+}
